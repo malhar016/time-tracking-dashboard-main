@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Yet to push](https://your-solution-url.com)
-- Live Site URL: [Yet to deploy](https://your-live-site-url.com)
+- Solution URL: [time-tracking-dashboard-main](https://github.com/malhar016/time-tracking-dashboard-main)
+- Live Site URL: [frontend-metor-time-tracking-dashboad.netlify.app](https://frontend-metor-time-tracking-dashboad.netlify.app/)
 
 ## My process
 
@@ -46,7 +46,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 
 ### What I learned
@@ -55,7 +54,7 @@ Modularizing the UI small components made the rest of the part very smooth. As t
 
 Also, use of css grid, media query and styling SVGs was some of my weak areas so I am glad I could practice with this. 
 
-_(**declaimer**: I couldn't place the background SVGs dynamically as each one needed different positions so checked some submitted gits and copied their styles for SVGs.)_
+_(**declaimer**: I couldn't place the background SVGs dynamically as each one needed different positions so checked some submitted gits and took reference of their styling.)_
 
 So, point being don't put so much time in something trivial, move on there is so much to learn and accomplish
 

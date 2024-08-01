@@ -5,7 +5,7 @@ function Profile({ selectedTimeFrame, onTimeFrameChange }) {
     <div className="profile-container">
       <div className="profile">
         <div className="avatar">
-          <img src="/images/image-jeremy.png" />
+          <img src="/images/image-jeremy.png" alt="profile-pic" />
         </div>
         <div className="profileName">
           <div>Report for</div>

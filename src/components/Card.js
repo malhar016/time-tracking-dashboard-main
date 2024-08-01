@@ -12,7 +12,7 @@ function Card({ title, current, previous }) {
           <div>{title}</div>
           <div>
             <a>
-              <img src="/images/icon-ellipsis.svg" />
+              <img src="/images/icon-ellipsis.svg" alt="ham-burger-menu" />
             </a>
           </div>
         </div>

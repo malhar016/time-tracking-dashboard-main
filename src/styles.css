@@ -16,11 +16,12 @@ body {
 
 .root-container {
   display: flex;
-  min-height: 100vh;
+  min-height: 90vh;
   justify-content: center;
 }
 
 .container {
+  scale: 1.25;
   display: grid;
   grid-template-areas:
     "profile task-board task-board task-board"

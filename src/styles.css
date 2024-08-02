@@ -14,19 +14,23 @@ body {
   --self-care-background-color: hsl(43, 84%, 65%);
 }
 
+.root-container {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+}
+
 .container {
   display: grid;
   grid-template-areas:
     "profile task-board task-board task-board"
     "profile task-board task-board task-board";
   border-radius: 10px;
-  max-width: 990px;
-  margin: auto;
-  padding-top: 8%;
+  align-self: center;
 }
 
 .profile-container {
-  max-width: 200px;
+  max-width: 230px;
   grid-area: profile;
   display: flex;
   flex-direction: column;
